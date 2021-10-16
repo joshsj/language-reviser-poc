@@ -1,0 +1,10 @@
+{
+  "name": "language-reviser",
+  "scripts": {
+    "watch": "npx tsc --watch",
+    "clean": "npx tsc --build --clean"
+  },
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
