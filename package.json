@@ -1,6 +1,7 @@
 {
   "name": "language-reviser",
   "scripts": {
+    "build": "npx tsc --build",
     "watch": "npx tsc --watch",
     "clean": "npx tsc --build --clean"
   },
